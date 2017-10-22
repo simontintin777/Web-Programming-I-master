@@ -112,7 +112,7 @@ simplify the text and store the result in chapter1.debug.txt
 Run the text metrics and store those results in chapter1.result.json
 Print the resulting metrics
 
-#General Requirements
+# General Requirements
 
 You must not submit your node_modules folder
 You must remember to save your dependencies to your package.json folder (if you use any)
