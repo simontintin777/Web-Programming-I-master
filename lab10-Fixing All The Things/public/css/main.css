@@ -1,0 +1,12 @@
+body {
+    padding-top: 50px;
+}
+
+.hints {
+    color: #666;
+}
+
+#the-result {
+    background: #999;
+    color: #000;
+}
