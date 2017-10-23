@@ -1,7 +1,6 @@
-# lab
+# Introduction to javascript, Node.js, MongoDB, HTML, CSS
 CS 546 Web Programming
 
-Introduction to javascript, Node.js, MongoDB, HTML, CSS
 
 ## lab1 
 An Intro to Node
